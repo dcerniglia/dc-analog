@@ -24,3 +24,7 @@ Run `yarn test` to run unit tests with [Vitest](https://vitest.dev).
 - Visit and Star the [GitHub Repo](https://github.com/analogjs/analog)
 - Visit the [Website](https://analogjs.org/)
 - Follow us on [Twitter](https://twitter.com/analogjs)
+
+## Notes
+
+Only works using Node v.16.20
